@@ -30,17 +30,19 @@
 
 ###
 
-<img align="left" height="250" src="https://media.giphy.com/media/lSzQjkthGS1gc/giphy.gif?cid=ecf05e47y5bxu1wfeiln4nj13hjytpn49jogjq1k6ow53dwu&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+<img align="left" height="270" src="https://media.giphy.com/media/xUOwGdwxqXCukhgUmY/giphy.gif?cid=ecf05e47r300x2g69251bupz84bcvd9nxrspbgxzuky8dian&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.instagram.com/_anas__915_?igsh=eDV2dHZ4eTJhd2Rz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.gg/yGFsu8Q9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
 </div>
 
 ###
