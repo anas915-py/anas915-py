@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Some Experience In:</h2>
+<h2 align="left">💼- Some Experience In:</h2>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="left">Links</h2>
+<h2 align="left">🔗- Links</h2>
 
 ###
 
@@ -46,14 +46,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="discord logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="gmail logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/anas.py">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=anas.py&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
