@@ -8,6 +8,10 @@
 
 ###
 
+<h2 align="left">🎓 Some Experience In:</h2>
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="37" alt="javascript logo"  />
   <img width="12" />
@@ -32,7 +36,7 @@
 
 ###
 
-<img align="right" height="195" src="https://media.giphy.com/media/RlwF2vFb4y7bDnWvcO/giphy.gif?cid=790b7611h8jdtcukjjlojgdyhbu3zm98h3ctbgcwt6qyaxtw&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<h2 align="left">🔗 Links</h2>
 
 ###
 
@@ -44,11 +48,5 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/anas915-py/anas915-py/output/snake.svg" alt="Snake animation" />
 
 ###
